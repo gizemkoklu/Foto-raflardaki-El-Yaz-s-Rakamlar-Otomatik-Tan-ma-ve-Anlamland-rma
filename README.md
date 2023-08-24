@@ -1,1 +1,1 @@
-pca ile feature sayımızı azaltıp daha sonra log reg kullarak modelimizi eğitiyoruz.
+pca ile feature sayımızı azaltıp daha sonra logistic regression kullanarak modelimizi eğitiyoruz.
